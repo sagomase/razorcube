@@ -1,5 +1,6 @@
     <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-chevron-up"></i></button>
       <!--header starts-->
+      <section>
       <div class="header homeHeader">
          <div class="row toprow">
             <div class="logoBox"></div>
@@ -108,4 +109,5 @@
             </div>
          </div>
       </div>
+      </section>
       <!--header ends-->
